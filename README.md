@@ -14,3 +14,7 @@ With these three recommenders in place, anime fans can discover new and exciting
 2. Run this command:
    ```bash
    pip install -r requirements.txt
+3. Run this command:
+   ```bash
+   python app.py
+
